@@ -1,6 +1,6 @@
 # Diagnosis of age using hand image
 
-Well, in this project, we are going to estimate the bone age of people using X-Ray images of the hand.
+Well, in this project, I am going to estimate the bone age of people using X-Ray images of the hand.
 
 The dataset used for this project is the Atlas dataset, which is publicly available.
 https://ipilab.usc.edu/research/baaweb/
