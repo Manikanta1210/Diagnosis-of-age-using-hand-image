@@ -1,5 +1,4 @@
-# Bone-Age-Estimation
-Bone age estimation using hand X-Ray images
+# Diagnosis of age using hand image
 
 Well, in this project, we are going to estimate the bone age of people using X-Ray images of the hand.
 
